@@ -38,17 +38,18 @@
 
   <p>The image segmentation process is performed using the Detectron 2 framework. It accurately identifies different parts of the image that represent distinct food items. By segmenting the image, we can isolate each food item for further analysis.</p>
 
-  <img src="/path/to/Screenshot 2023-07-16 225939.png" alt="Image Segmentation Example">
+  <img src="Screenshot 2023-07-16 225939.png" alt="Image Segmentation Example">
 
   <h2 id="food-category-detection">Food Category Detection</h2>
 
   <p>Once the image has been segmented, a convolutional neural network (CNN) model is employed to classify each food item into specific categories. This step helps in determining the type of food and enables accurate retrieval of nutritional information.</p>
 
-  <img src="/path/to/category_detection_example.png" alt="Food Category Detection Example">
 
   <h2 id="api-integration">API Integration</h2>
 
   <p>To retrieve nutritional information, we utilize an API that provides extensive food-related data. This integration allows the nutrient counter to obtain accurate and up-to-date information on calories, macronutrients, and other relevant nutritional values for each identified food item.</p>
+
+  <img src="Screenshot 2023-07-16 230308.png" alt="API Detection Example">
 
   <h2 id="contributing">Contributing</h2>
 
