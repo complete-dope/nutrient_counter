@@ -38,7 +38,7 @@
 
   <p>The image segmentation process is performed using the Detectron 2 framework. It accurately identifies different parts of the image that represent distinct food items. By segmenting the image, we can isolate each food item for further analysis.</p>
 
-  <img src="/path/to/segmentation_example.png" alt="Image Segmentation Example">
+  <img src="/path/to/Screenshot 2023-07-16 225939.png" alt="Image Segmentation Example">
 
   <h2 id="food-category-detection">Food Category Detection</h2>
 
